@@ -1,0 +1,1 @@
+The Navigation component is a suite of libraries, tooling and guidance for in-app navigation. The component centralizes all of the navigation information of you app in a navigation graph, providing a robust framework for implementing everything from simple button clicks to complex navigation UI patterns.
